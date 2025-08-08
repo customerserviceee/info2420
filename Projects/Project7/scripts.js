@@ -53,4 +53,4 @@ if (document.images) {
 				var tmpImg = new Image;
 				tmpImg.src = imgPath + imgArray[i];
 			}
-		}Document
+		}
